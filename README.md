@@ -1,24 +1,8 @@
-# net-demo
+# weather_panel
+调用聚合网请求天气数据，做了一个天气预报面板
 
-## Project setup
-```
-npm install
-```
+# 页面效果图
+![天气面板](https://github.com/weihu-around/weather_panel/blob/main/imageStorage/1.png)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# 运行
+ npm run serve
